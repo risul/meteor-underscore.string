@@ -2,6 +2,12 @@
 
 The [underscore.string](http://epeli.github.io/underscore.string/) string manipulation library repackaged for Meteor.
 
+## Installing
+
+```bash
+    meteor add risul:underscore.string
+    ```
+
 ## Usage
 
 Non-conflicting functions are available in `_` directly. All functions,
