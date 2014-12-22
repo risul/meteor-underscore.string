@@ -22,8 +22,3 @@ _.str.include('Underscore.string', 'string'); // => true
 ## NOTE
 
 Based off https://github.com/TimHeckel/meteor-underscore-string/ but updated to latest version.
-
-## Author
-
-This Meteor package was published by
-[Risul Islam](https://no.linkedin.com/in/risul), a Meteor, NodeJS, PHP and .Net developer.
