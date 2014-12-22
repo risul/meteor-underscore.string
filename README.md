@@ -6,7 +6,7 @@ The [underscore.string](http://epeli.github.io/underscore.string/) string manipu
 
 ```bash
     meteor add risul:underscore.string
-    ```
+```
 
 ## Usage
 
