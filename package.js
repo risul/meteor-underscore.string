@@ -10,7 +10,7 @@ Package.on_use(function (api) {
     api.use('meteor', {unordered: true});
     api.use('underscore', ['client', 'server']);
 
-    api.add_files(['pre.js','lib/underscore.string/lib/underscore.string.js','post.js']);
+    api.add_files(['pre.js','lib/underscore.string.min.js','post.js']);
 
     api.export('_s');
 });
