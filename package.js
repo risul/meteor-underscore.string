@@ -1,7 +1,7 @@
 Package.describe({
     name: 'risul:underscore.string',
     summary: "underscore.string: Additional string functions for Underscore",
-    version: "1.0.0",
+    version: "1.0.5",
     git: "https://github.com/risul/meteor-underscore.string"
 });
 

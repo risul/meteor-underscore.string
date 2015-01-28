@@ -1,29 +1,7 @@
 # Underscore.String for Meteor
 
-The [underscore.string](http://epeli.github.io/underscore.string/) string manipulation library repackaged for Meteor.
-
-## Installing
-
-```bash
-    meteor add risul:underscore.string
-```
-
-## Usage
-
-Non-conflicting functions are available in `_` directly. All functions,
-including conflicting functions, are available in `_s` and `_.str`.
-
-Example:
-
-````javascript
-_.str.include('Underscore.string', 'string'); // => true
-````
+Please use the official package: https://atmospherejs.com/underscorestring/underscore.string
 
 ## NOTE
 
-Based off https://github.com/TimHeckel/meteor-underscore-string/ but updated to latest version.
-
-## Author
-
-This Meteor package was published by
-[Risul Islam](https://no.linkedin.com/in/risul), a Meteor, NodeJS, PHP and .Net developer.
+Please use the official package: https://atmospherejs.com/underscorestring/underscore.string
